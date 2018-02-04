@@ -3,6 +3,7 @@
 <img src= "logo.png" width="100px">
 
 A android app that allows you to keep track of your calories for the day 
+
 Creators: Tanvi Wagle, Neha Nishikant, Ashna Mediratta, Sammy, Riya Patel 
 
 
